@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="common_title_height">48dp</dimen>
+
+    <dimen name="default_text_size_big">48sp</dimen>
+    <dimen name="default_text_size_xxxl">24sp</dimen>
+    <dimen name="default_text_size_xxl">20sp</dimen>
+    <dimen name="default_text_size_xl">18sp</dimen>
+    <dimen name="default_text_size_l">16sp</dimen>
+    <dimen name="default_text_size_m">14sp</dimen>
+    <dimen name="default_text_size_s">12sp</dimen>
+    <dimen name="default_text_size_ss">10sp</dimen>
+    <dimen name="default_text_size_sss">8sp</dimen>
+
+
+    <dimen name="photo_size_sss">30dp</dimen>
+    <dimen name="photo_size_ss">50dp</dimen>
+    <dimen name="photo_size_s">60dp</dimen>
+    <dimen name="photo_size_m">100dp</dimen>
+    <dimen name="photo_size_l">130dp</dimen>
+    <dimen name="photo_size_xl">160dp</dimen>
+
+    <dimen name="view_title_padding_top">30dp</dimen>
+
+    <dimen name="backgroundAppNameMargin">1dp</dimen>
+    <dimen name="actionBarAppNameMargin">5dp</dimen>
+    <dimen name="actionBarSize">51dp</dimen>
+    <dimen name="tabHeight">30dp</dimen>
+
+    <dimen name="btnConfirmHeight">40dp</dimen>
+    <dimen name="myPointMarginTop">10dp</dimen>
+    <dimen name="myBgHeight">220dp</dimen>
+    <dimen name="myMenuItemMarginBottom">1dp</dimen>
+    <dimen name="talk_max_width">170dp</dimen>
+
+    <dimen name="intro_text_size">30dp</dimen>
+</resources>

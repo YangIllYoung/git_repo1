@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn1"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="버튼1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/qna"
+        android:title="1:1문의"
+        />
+    <item
+        android:id="@+id/help"
+        android:title="도움말" />
+    <item
+        android:id="@+id/logout"
+        android:title="로그아웃" />
+</menu>

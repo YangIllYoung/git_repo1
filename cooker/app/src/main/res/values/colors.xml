@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#760BCB</color>
+    <color name="colorPrimaryDark">#B353FF</color>
+    <color name="colorPrimaryLight">#CDA8F0</color>
+    <color name="colorAccent">#7b7b7b</color>
+    <color name="colorControlHighlight">#fff</color>
+
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorCecondaryText">#7b7b7b</color>
+    <color name="colorDivider">#ecedee</color>
+    <color name="colorBackground">#fafafa</color>
+    <!--<color name="colorBackgroundGold">#c69c6d</color>-->
+
+    <color name="gold_fcd4a9">#fcd4a9</color>
+    <color name="alpha_0">#00000000</color>
+    <color name="alpha_05">#05000000</color>
+    <color name="alpha_08">#08000000</color>
+    <color name="alpha_10">#10000000</color>
+    <color name="alpha_15">#15000000</color>
+    <color name="alpha_25">#25000000</color>
+    <color name="alpha_50">#50000000</color>
+    <color name="alpha_75">#75000000</color>
+    <color name="alpha_80">#80000000</color>
+    <color name="alpha_85">#85000000</color>
+    <color name="alpha_90">#90000000</color>
+    <color name="alpha_aa">#AA000000</color>
+    <color name="alpha_bb">#BB000000</color>
+    <color name="alpha_cc">#CC000000</color>
+    <color name="alpha_dd">#DD000000</color>
+    <color name="alpha_ee">#EE000000</color>
+    <color name="alpha_ff">#FF000000</color>
+
+    <color name="talk_my_message_bg">#ffe052</color>
+    <color name="talk_my_message_bg_highlight">#f9efbf</color>
+
+    <color name="brown">#7e2727</color>
+    <color name="pink">#fe8181</color>
+    <color name="pink_1">#f25353</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FF960E</color>
+    <color name="yellow_00">#ffe010</color>
+    <color name="yellow_ffb900">#ffb900</color>
+    <color name="gray1">#f0f0f0</color>
+    <color name="gray2">#b9b9b9</color>
+    <color name="gray3">#B0B0B0</color>
+    <color name="gray4">#999999</color>
+    <color name="gray5">#79808c</color>
+    <color name="gray6">#dbdbdb</color>
+    <color name="gray7">#e9e9e9</color>
+    <color name="gray_555555">#555555</color>
+    <color name="gray_666666">#666666</color>
+    <color name="gray_fafafa">#fafafa</color>
+    <color name="gray_f7f7f7">#f7f7f7</color>
+    <color name="gray_bbbbbb">#bbbbbb</color>
+    <color name="gray_999999">#999999</color>
+    <color name="gray_79808c">#79808c</color>
+    <color name="gray_ececec">#ececec</color>
+    <color name="gray_dfdfdf">#dfdfdf</color>
+
+
+    <color name="blue_00">#6893FF</color>
+    <color name="blue_01">#ff0054d1</color>
+    <color name="blue_2e9ac0">#2e9ac0</color>
+    <color name="blue_3897f1">#3897f1</color>
+    <color name="blue_7ea4f9">#7ea4f9</color>
+    <color name="blue_4977c6">#4977C6</color>
+    <color name="purple_9B51E0">#9B51E0</color>
+    <color name="purple_B353FF">#B353FF</color>
+
+
+    <color name="red">#ff1744</color>
+    <color name="redHighlight">#f00000</color>
+    <color name="red_f9535f">#f9535f</color>
+    <color name="red_f56177">#f56177</color>
+    <color name="red_ed1c24">#ed1c24</color>
+
+    <color name="male">#7db5ff</color>
+    <color name="famale">#ff7373</color>
+
+    <color name="colorTabTextSelect">#FFFFFFFF</color>
+    <color name="colorTabTextUnSelect">#9FFFFFFF</color>
+
+    <color name="color1">#ff92ff2f</color>
+    <color name="color2">#ffffbc00</color>
+    <color name="color3">#ff12ffa0</color>
+    <color name="color4">#ffff6724</color>
+
+    <color name="btn_00_off">#e5e5e5</color>
+    <color name="btn_00_on">#F2F2F2</color>
+
+
+    <color name="fingerprint_off">#657187</color>
+    <color name="fingerprint_fail">#bd2c4c</color>
+
+    <color name="filter_color_green_dark">#568f35</color>
+
+    <drawable name="sticker_item_background">#ededed</drawable>
+
+    <color name="filter_category_greenish_dummy">#ffb1c0c2</color>
+    <color name="filter_category_greenish_normal">#ff7bc4c5</color>
+
+    <color name="photomovie_blue">#00a1ff</color>
+    <color name="photomovie_progress_down">@color/photomovie_blue</color>
+    <color name="photomovie_progress_back">#d8d8d8</color>
+
+    <color name="colorStart">#7ea4f9</color>
+    <color name="colorEnd">#f00000</color>
+</resources>

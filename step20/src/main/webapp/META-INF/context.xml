@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	
+<Resource 
+	removeAbandoned="true"
+	maxIdle="3"
+	maxActive="20" 
+	password="m1234" 
+	username="jspexam" 
+	url="jdbc:oracle:thin:@localhost:1521:xe" 
+	driverClassName="oracle.jdbc.driver.OracleDriver" 
+	type="javax.sql.DataSource" 
+	name="jdbc/oracle"/>
+</Context>
